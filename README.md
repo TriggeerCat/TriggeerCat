@@ -7,9 +7,9 @@
 
 ### About Personal Stuffs:
 
-- 👨🏽‍💻  My skills (currently in development): HTML / CSS / JS (and TS).
+- 👨🏽‍💻  My skills (currently in development): HTML / CSS / JS (and TS) / React.
 - 🥝  I'm amateur translator into Ukrainian for fun.
-- 🌱  I’m currently learning React.
+- 🌱  I’m currently learning NodeJS.
 - 🐈‍⬛  Meow
 - 💬  Ask me anything, I am happy to help.
 - 📫  How to reach me: zspwdmnplay@gmail.com.
